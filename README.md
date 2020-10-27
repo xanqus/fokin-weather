@@ -1,1 +1,2 @@
-# fokin-weather
+# Fokin Weather
+React Native App
